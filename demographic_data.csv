@@ -1,0 +1,251 @@
+CustomerID,Location,HouseholdSize,PrimaryDevice
+CUST001,East,3,Tablet
+CUST002,East,1,Smart TV
+CUST003,North,4,Smart TV
+CUST004,North,5,Tablet
+CUST005,North,5,Smart TV
+CUST006,Central,3,Smart TV
+CUST007,North,2,Smart TV
+CUST008,Central,4,Web Browser
+CUST009,West,4,Smart TV
+CUST010,West,3,Smart TV
+CUST011,Central,3,Smart TV
+CUST012,South,3,Mobile
+CUST013,North,4,Tablet
+CUST014,East,1,Smart TV
+CUST015,North,3,Tablet
+CUST016,South,3,Mobile
+CUST017,East,2,Smart TV
+CUST018,West,5,Smart TV
+CUST019,Central,4,Mobile
+CUST020,East,4,Web Browser
+CUST021,East,3,Web Browser
+CUST022,North,2,Smart TV
+CUST023,East,2,Tablet
+CUST024,North,3,Mobile
+CUST025,North,1,Web Browser
+CUST026,East,4,Web Browser
+CUST027,North,1,Mobile
+CUST028,East,5,Smart TV
+CUST029,East,2,Web Browser
+CUST030,North,3,Web Browser
+CUST031,East,3,Tablet
+CUST032,East,3,Smart TV
+CUST033,East,1,Mobile
+CUST034,East,4,Smart TV
+CUST035,East,2,Mobile
+CUST036,North,4,Smart TV
+CUST037,East,4,Mobile
+CUST038,West,4,Web Browser
+CUST039,South,3,Mobile
+CUST040,West,3,Mobile
+CUST041,South,1,Mobile
+CUST042,North,2,Mobile
+CUST043,North,4,Tablet
+CUST044,East,4,Smart TV
+CUST045,West,3,Smart TV
+CUST046,South,3,Smart TV
+CUST047,Central,2,Smart TV
+CUST048,East,2,Smart TV
+CUST049,Central,2,Mobile
+CUST050,North,1,Mobile
+CUST051,East,3,Mobile
+CUST052,South,3,Smart TV
+CUST053,South,3,Smart TV
+CUST054,North,4,Smart TV
+CUST055,East,4,Mobile
+CUST056,East,1,Web Browser
+CUST057,East,2,Smart TV
+CUST058,North,5,Smart TV
+CUST059,East,2,Tablet
+CUST060,Central,1,Mobile
+CUST061,East,1,Mobile
+CUST062,South,5,Mobile
+CUST063,East,2,Mobile
+CUST064,East,4,Mobile
+CUST065,South,5,Smart TV
+CUST066,South,5,Mobile
+CUST067,East,4,Mobile
+CUST068,East,3,Mobile
+CUST069,South,3,Mobile
+CUST070,South,3,Tablet
+CUST071,West,5,Mobile
+CUST072,Central,4,Web Browser
+CUST073,Central,3,Mobile
+CUST074,North,3,Web Browser
+CUST075,North,5,Smart TV
+CUST076,South,3,Tablet
+CUST077,North,3,Mobile
+CUST078,West,4,Mobile
+CUST079,West,5,Mobile
+CUST080,North,2,Smart TV
+CUST081,West,3,Smart TV
+CUST082,North,4,Smart TV
+CUST083,Central,5,Web Browser
+CUST084,North,1,Web Browser
+CUST085,Central,4,Smart TV
+CUST086,West,1,Smart TV
+CUST087,East,2,Smart TV
+CUST088,East,4,Mobile
+CUST089,North,4,Web Browser
+CUST090,South,2,Smart TV
+CUST091,West,4,Smart TV
+CUST092,North,4,Tablet
+CUST093,North,2,Web Browser
+CUST094,South,1,Tablet
+CUST095,South,5,Smart TV
+CUST096,North,2,Smart TV
+CUST097,East,3,Mobile
+CUST098,East,2,Smart TV
+CUST099,Central,3,Mobile
+CUST100,West,3,Smart TV
+CUST101,East,5,Smart TV
+CUST102,East,1,Tablet
+CUST103,North,3,Mobile
+CUST104,South,2,Tablet
+CUST105,South,1,Tablet
+CUST106,West,1,Smart TV
+CUST107,Central,2,Smart TV
+CUST108,Central,1,Mobile
+CUST109,East,2,Smart TV
+CUST110,South,5,Smart TV
+CUST111,South,3,Mobile
+CUST112,North,1,Mobile
+CUST113,North,1,Tablet
+CUST114,East,2,Mobile
+CUST115,East,3,Mobile
+CUST116,East,4,Smart TV
+CUST117,West,5,Smart TV
+CUST118,Central,4,Mobile
+CUST119,Central,4,Mobile
+CUST120,North,4,Mobile
+CUST121,East,3,Smart TV
+CUST122,West,5,Smart TV
+CUST123,East,3,Tablet
+CUST124,South,3,Smart TV
+CUST125,Central,2,Web Browser
+CUST126,Central,2,Smart TV
+CUST127,South,3,Web Browser
+CUST128,Central,4,Web Browser
+CUST129,East,3,Tablet
+CUST130,South,4,Web Browser
+CUST131,North,3,Smart TV
+CUST132,South,1,Web Browser
+CUST133,East,4,Tablet
+CUST134,East,3,Mobile
+CUST135,East,1,Mobile
+CUST136,East,4,Mobile
+CUST137,East,1,Tablet
+CUST138,North,3,Tablet
+CUST139,East,3,Smart TV
+CUST140,East,4,Smart TV
+CUST141,East,3,Smart TV
+CUST142,Central,3,Mobile
+CUST143,East,4,Smart TV
+CUST144,East,4,Tablet
+CUST145,West,2,Smart TV
+CUST146,North,3,Smart TV
+CUST147,North,1,Tablet
+CUST148,North,3,Web Browser
+CUST149,East,4,Web Browser
+CUST150,West,1,Tablet
+CUST151,East,2,Mobile
+CUST152,North,5,Tablet
+CUST153,West,3,Web Browser
+CUST154,Central,4,Mobile
+CUST155,Central,4,Mobile
+CUST156,East,1,Smart TV
+CUST157,East,3,Web Browser
+CUST158,East,2,Mobile
+CUST159,East,1,Web Browser
+CUST160,Central,4,Smart TV
+CUST161,North,5,Smart TV
+CUST162,North,1,Tablet
+CUST163,West,2,Mobile
+CUST164,Central,3,Web Browser
+CUST165,Central,2,Web Browser
+CUST166,Central,3,Smart TV
+CUST167,North,1,Mobile
+CUST168,South,4,Smart TV
+CUST169,East,3,Tablet
+CUST170,North,4,Tablet
+CUST171,East,4,Tablet
+CUST172,South,5,Mobile
+CUST173,East,5,Smart TV
+CUST174,East,3,Web Browser
+CUST175,East,1,Web Browser
+CUST176,South,4,Smart TV
+CUST177,West,5,Smart TV
+CUST178,Central,4,Web Browser
+CUST179,East,5,Smart TV
+CUST180,North,1,Mobile
+CUST181,South,3,Mobile
+CUST182,East,4,Mobile
+CUST183,North,5,Smart TV
+CUST184,East,3,Smart TV
+CUST185,East,2,Mobile
+CUST186,Central,4,Smart TV
+CUST187,Central,4,Mobile
+CUST188,West,5,Smart TV
+CUST189,East,4,Mobile
+CUST190,North,5,Smart TV
+CUST191,West,2,Smart TV
+CUST192,Central,3,Smart TV
+CUST193,West,5,Tablet
+CUST194,North,3,Mobile
+CUST195,North,4,Web Browser
+CUST196,North,5,Tablet
+CUST197,North,5,Smart TV
+CUST198,North,4,Smart TV
+CUST199,North,4,Smart TV
+CUST200,South,2,Mobile
+CUST201,East,5,Web Browser
+CUST202,North,4,Tablet
+CUST203,North,3,Web Browser
+CUST204,East,5,Mobile
+CUST205,South,2,Smart TV
+CUST206,East,3,Tablet
+CUST207,East,5,Mobile
+CUST208,West,1,Mobile
+CUST209,South,2,Web Browser
+CUST210,Central,3,Web Browser
+CUST211,North,5,Smart TV
+CUST212,North,4,Smart TV
+CUST213,North,4,Tablet
+CUST214,North,3,Mobile
+CUST215,South,1,Mobile
+CUST216,West,4,Smart TV
+CUST217,North,2,Mobile
+CUST218,North,4,Tablet
+CUST219,East,4,Mobile
+CUST220,West,5,Mobile
+CUST221,East,4,Mobile
+CUST222,East,3,Tablet
+CUST223,Central,3,Web Browser
+CUST224,East,3,Web Browser
+CUST225,East,2,Mobile
+CUST226,West,1,Mobile
+CUST227,South,2,Smart TV
+CUST228,North,5,Mobile
+CUST229,West,3,Smart TV
+CUST230,North,3,Smart TV
+CUST231,Central,4,Smart TV
+CUST232,East,4,Mobile
+CUST233,North,3,Web Browser
+CUST234,South,5,Mobile
+CUST235,South,3,Web Browser
+CUST236,North,4,Smart TV
+CUST237,Central,1,Smart TV
+CUST238,West,4,Smart TV
+CUST239,Central,5,Smart TV
+CUST240,West,4,Web Browser
+CUST241,East,5,Tablet
+CUST242,East,5,Smart TV
+CUST243,Central,4,Mobile
+CUST244,South,2,Smart TV
+CUST245,East,4,Web Browser
+CUST246,North,3,Mobile
+CUST247,East,1,Mobile
+CUST248,North,3,Smart TV
+CUST249,West,3,Mobile
+CUST250,East,3,Web Browser
